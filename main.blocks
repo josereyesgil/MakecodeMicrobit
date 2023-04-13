@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="M=mC5F+[NWq^9]mb~pk8" x="-1" y="-2"><statement name="HANDLER"><block type="device_print_message" id="zQ05zEu$QwD%ut]Es`Wn"><value name="text"><shadow type="text" id="Bi=*a0a!FvP~u#NUkvZ?"><field name="TEXT">¡HOLA MARTINA!</field></shadow></value></block></statement></block></xml>
